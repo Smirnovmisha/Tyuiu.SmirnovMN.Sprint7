@@ -20,6 +20,7 @@ namespace Tyuiu.SmirnovMN.Sprint7.Project.V12
         private void pictureBox1_Click(object sender, EventArgs e)
         {
 
+
         }
 
         private void label_SMN_Click(object sender, EventArgs e)
