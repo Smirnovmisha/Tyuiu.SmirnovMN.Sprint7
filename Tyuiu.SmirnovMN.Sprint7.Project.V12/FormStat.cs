@@ -16,7 +16,7 @@ namespace Tyuiu.SmirnovMN.Sprint7.Project.V12
     {
         private DataTable ReadCSVFile(string pathToCsvFile)
         {
-            //создаём таблицу
+            //создаём таблицу 
             DataTable dt = new DataTable();
             //создаём колонки
             DataColumn colIVM;
